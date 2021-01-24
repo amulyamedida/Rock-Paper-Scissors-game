@@ -30,14 +30,19 @@
 *  <i> So,by adjusting your choice you can the game as many times you want with the computer and the score will be        displayed there. </i>
   
   
+  
+  
   # Source code that we used for the game 👇🏻
   
   * Game code  👉🏻 https://www.codesnail.com/rock-paper-scissors-javascript/
   
   
+  
    # What we learned from this project
+   
   
   * <i>We learnt how to use **TEACHABLE MACHINE** to train the model which is used to play the game.</i>
+  
   
   
    # Click the below link to check the model we trained in **Teachable Machine**
@@ -46,12 +51,17 @@
   
   
   
+  
    # Click the below link to play the game
    
   * https://rock-paper-scissors-ml-week1.herokuapp.com/
   
   
+  
+  
    # Click the below image to watch demo of our Project.
+  
+  
   
   
   
