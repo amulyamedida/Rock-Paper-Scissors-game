@@ -6,15 +6,14 @@
  #  Team Members
  1. Pokuri.Monica Rani - 19PA1A05E1
  2. Ponduru.Rajitha    - 19PA1A05E4
- 
+ <br></br>
  
  # OBJECTIVE OF OUR PROJECT
  
  * <i> This is a AI Based game built using <b>Teachable Machine</b>.It is played using hand gestures(Rock,Paper,Scissors)
   that are classified using <b>teachable machine</b> image classifier.</i>
   
-  
-  
+ 
   
  # LET US KNOW HOW TO PLAY THE GAME
   
@@ -36,8 +35,7 @@
   
   * Game code  👉🏻 https://www.codesnail.com/rock-paper-scissors-javascript/
   
-  
-  
+ 
    # What we learned from this project
    
   
