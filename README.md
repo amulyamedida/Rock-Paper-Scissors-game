@@ -30,7 +30,7 @@
 *  <i> So,by adjusting your choice you can the game as many times you want with the computer and the score will be        displayed there. </i>
   
   
-   # Source code that we used for the game 👇🏻
+  # Source code that we used for the game 👇🏻
   
   * Game code  👉🏻 https://www.codesnail.com/rock-paper-scissors-javascript/
   
