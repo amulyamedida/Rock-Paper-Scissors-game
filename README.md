@@ -1,6 +1,6 @@
 # ML-GAME
   
-  # Rock Paper Scissors Game
+ # Rock Paper Scissors Game
 
 
  #  Team Members
@@ -10,7 +10,7 @@
  
  # OBJECTIVE OF OUR PROJECT
  
- <i> This is a AI Based game built using <b>Teachable Machine</b>.It is played using hand gestures(Rock,Paper,Scissors)
+ * <i> This is a AI Based game built using <b>Teachable Machine</b>.It is played using hand gestures(Rock,Paper,Scissors)
   that are classified using <b>teachable machine</b> image classifier.</i>
   
   
@@ -30,33 +30,33 @@
 *  <i> So,by adjusting your choice you can the game as many times you want with the computer and the score will be        displayed there. </i>
   
   
-  # Source code that we used for the game 👇🏻
+   # Source code that we used for the game 👇🏻
   
   * Game code  👉🏻 https://www.codesnail.com/rock-paper-scissors-javascript/
   
   
-  # What we learned from this project
+   # What we learned from this project
   
   * We learnt how to use **TEACHABLE MACHINE** to train the model which is used to play the game.
   
   
-  # Click the below link to check the model we trained in **Teachable Machine**
+   # Click the below link to check the model we trained in **Teachable Machine**
   
   * https://teachablemachine.withgoogle.com/models/zcltklZdL/
   
   
   
-  # Click the below link to play the game
+   # Click the below link to play the game
    
   * https://rock-paper-scissors-ml-week1.herokuapp.com/
   
   
-  # Click the below image to watch demo of our Project.
+   # Click the below image to watch demo of our Project.
   
   
   
   
-  # Online Resources
+   # Online Resources
  
   * https://getcssscan.com/css-box-shadow-examples
   
