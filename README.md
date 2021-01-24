@@ -18,15 +18,15 @@
  # LET US KNOW HOW TO PLAY THE GAME
   
 *  <i> When you open the **Rock Paper And Scissors** game,you can able to see the option **ENABLE WEBCAM**</i>
-*  <i> By Clicking the option **Enable Webcam** you will see the permission or access to your webcam.</i>
-*  <i> You have to give the access to your webcam to play the game.</i>
+*  <i> By Clicking the option **Enable Webcam** you will see the browser is asking access to your webcam.</i>
+*  <i> You have to give access to your webcam to play the game.</i>
 *  <i> Since we designed the game that is played using your **hand gestures** so the webcam is needed for that.</i>
 *  <i> The model that we built contains three classes called **rock,paper and scissors**.</i>
 *  <i> By recognizing the **gesture** of our hands it will classify whether it is **rock, paper or scissors** and displays            your choice below the class labels. </i>
 *  <i> Click on the play button given above eachtime  after adjusting your choice.</i>
 *  <i>Then you can see that there are images displaying **computer's choice** and **your's choice** while you are playing.</i>
 *  <i> The scores of the **player** and **computer** were displayed on the top (Player Score and Computer Score).</i>
-*  <i> So,by adjusting your choice you can the game as many times you want with the computer and the score will be        displayed there. </i>
+*  <i> So,by adjusting your choice you can play the game as many times you want with the computer and the score will be        displayed there. </i>
   
   
   
