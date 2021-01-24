@@ -41,23 +41,25 @@
   
   * <i>We learnt how to use **TEACHABLE MACHINE** to train the model which is used to play the game.</i>
   
+   # Some of the images related to our project
+   
   
   
-   # Click the below link to check the model we trained in **Teachable Machine**
+   # Click the below link to check the model we trained in **Teachable Machine**👇🏻
   
   * https://teachablemachine.withgoogle.com/models/zcltklZdL/
   
   
   
   
-   # Click the below link to play the game
+   # Click the below link to play the game 👇🏻
    
   * https://rock-paper-scissors-ml-week1.herokuapp.com/
   
   
   
   
-   # Click the below image to watch demo of our Project.
+   # Click the below image to watch demo of our Project.👇🏻
   
   
   
@@ -69,4 +71,6 @@
   * https://getcssscan.com/css-box-shadow-examples
   
   * https://www.w3schools.com/howto/howto_css_two_columns.asp
+  
+  * https://www.w3schools.com/js/js_functions.asp
   
