@@ -37,7 +37,7 @@
   
    # What we learned from this project
   
-  * We learnt how to use **TEACHABLE MACHINE** to train the model which is used to play the game.
+  * <i>We learnt how to use **TEACHABLE MACHINE** to train the model which is used to play the game.</i>
   
   
    # Click the below link to check the model we trained in **Teachable Machine**
