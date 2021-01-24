@@ -10,7 +10,7 @@
  
  # OBJECTIVE OF OUR PROJECT
  
- <i> This is a AI Based game builded using <b>Teachable Machine</b>.It is played using hand gestures(Rock,Paper,Scissors)
+ <i> This is a AI Based game built using <b>Teachable Machine</b>.It is played using hand gestures(Rock,Paper,Scissors)
   that are classified using <b>teachable machine</b> image classifier.</i>
   
   
