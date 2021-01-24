@@ -69,6 +69,10 @@
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1pW2zvYXcGs/0.jpg)](https://www.youtube.com/watch?v=1pW2zvYXcGs)
   
   
+   # Demo of our Game
+    
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/US_z7y_o3KI/0.jpg)](https://www.youtube.com/watch?v=US_z7y_o3KI)
+  
   
    # Online Resources
  
