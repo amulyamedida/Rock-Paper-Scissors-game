@@ -43,7 +43,9 @@
   
    # Some of the images related to our project
    
-  
+   ![Game](https://raw.githubusercontent.com/Rajitha-19/ML-GAME/main/Image1.jpeg)
+   ![Game](https://raw.githubusercontent.com/Rajitha-19/ML-GAME/main/Image3.jpeg)
+   ![Game](https://raw.githubusercontent.com/Rajitha-19/ML-GAME/main/Image2.jpeg)
   
    # Click the below link to check the model we trained in **Teachable Machine**👇🏻
   
