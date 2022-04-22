@@ -2,10 +2,6 @@
   
  # Rock Paper Scissors Game
 
-
- #  Team Members
- **1. Pokuri.Monica Rani - 19PA1A05E1**\
- **2. Ponduru.Rajitha    - 19PA1A05E4**
  <br></br>
  
  # OBJECTIVE OF OUR PROJECT
